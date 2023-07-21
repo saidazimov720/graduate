@@ -2,7 +2,7 @@ function Graduate(mark) {
     let grade;
   switch (true) {
     case mark < 60:
-      grade = "F";
+      grade = "B";
       break;
     case mark < 70:
       grade = "B+";
