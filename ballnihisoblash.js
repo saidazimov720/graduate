@@ -20,6 +20,6 @@ function Graduate(mark) {
 }
 
 
-const mark = 100;
+const mark = 81.8;
 
 console.log("mark is:", mark, "Graduate:", Graduate(mark));
