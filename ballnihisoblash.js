@@ -11,7 +11,7 @@ function Graduate(mark) {
       grade = "C";
       break;
     case mark < 90:
-      grade = "B";
+      grade = "A+";
       break;
     default:
       grade = "A++";
