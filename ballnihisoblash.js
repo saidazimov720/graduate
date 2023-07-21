@@ -14,7 +14,7 @@ function Graduate(mark) {
       grade = "B";
       break;
     default:
-      grade = "A";
+      grade = "A++";
   }
   return grade;
 }
