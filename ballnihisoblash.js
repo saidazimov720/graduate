@@ -5,7 +5,7 @@ function Graduate(mark) {
       grade = "F";
       break;
     case mark < 70:
-      grade = "D";
+      grade = "B+";
       break;
     case mark < 80:
       grade = "A";
